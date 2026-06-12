@@ -1,4 +1,14 @@
-
+Hi, I am Purita.
+:cl: Computational Linguistics student
+:computer: always a new learner in this programming world
+:mortar_board: graduate in Global Environmental Studies and Political Science
+:earth_africa: full of experience in case management and project management regarding Migration and Environmental issues
+:books: researcher at heart
+:moyai: language learner
+⛰️: nature lover
+ and 
+:stars: traveller
+ 
 
 <!--
 **S-Purita/S-Purita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
