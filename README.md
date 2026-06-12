@@ -1,12 +1,12 @@
-Hi, I am Purita.
-:cl: Computational Linguistics student
-:computer: always a new learner in this programming world
-:mortar_board: graduate in Global Environmental Studies and Political Science
-:earth_africa: full of experience in case management and project management regarding Migration and Environmental issues
-:books: researcher at heart
-:moyai: language learner
-⛰️: nature lover
- and 
+# Hi, I am Purita. 
+:cl: Computational Linguistics student </br>
+:computer: always a new learner in this programming world </br>
+:mortar_board: graduate in Global Environmental Studies and Political Science </br>
+:earth_africa: full of experience in case management and project management regarding Migration and Environmental issues </br>
+:books: researcher at heart </br>
+:moyai: language learner </br>
+⛰️: nature lover </br>
+ and </br>
 :stars: traveller
  
 
